@@ -19,17 +19,17 @@
 	<property name="NATIVE_TAB_AUTO_RELOAD3">false</property>
 	<property name="NATIVE_TAB_AUTO_RELOAD4">false</property>
 	<property name="NATIVE_TAB_AUTO_RELOAD5">false</property>
-	<property name="NATIVE_TAB_BAR">false</property>
+	<property name="NATIVE_TAB_BAR">true</property>
 	<property name="NATIVE_TAB_BADGE_TEXT_COLOR">#ffffff</property>
 	<property name="NATIVE_TAB_COUNT">5</property>
 	<property name="NATIVE_TAB_DEFAULT_URL"></property>
 	<property name="NATIVE_TAB_HEIGHT">40</property>
 	<property name="NATIVE_TAB_POSITION">bottom</property>
 	<property name="NATIVE_TAB_TAP_RELOAD">true</property>
-	<property name="NATIVE_TAB_URL1"></property>
-	<property name="NATIVE_TAB_URL2"></property>
-	<property name="NATIVE_TAB_URL3"></property>
-	<property name="NATIVE_TAB_URL4"></property>
+	<property name="NATIVE_TAB_URL1">index.html</property>
+	<property name="NATIVE_TAB_URL2">tab2.html</property>
+	<property name="NATIVE_TAB_URL3">tab3.html</property>
+	<property name="NATIVE_TAB_URL4">tab4.html</property>
 	<property name="NATIVE_TAB_URL5"></property>
 
 	<property name="NAVIGATION_BAR">true</property>
